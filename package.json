@@ -1,0 +1,16 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build",
+    "test": "umi test"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "umi": "^2.1.2",
+    "umi-plugin-react": "^1.15.8"
+  },
+  "devDependencies": {}
+}
