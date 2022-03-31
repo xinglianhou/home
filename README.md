@@ -1,6 +1,6 @@
 # 前端代码
 ## 样例
-![Image text](https://github.com/xinglianhou/home/tree/main/src/page/image/demo.png)
+![Image text](https://raw.githubusercontent.com/xinglianhou/home/main/src/page/image/demo.png)
 
 ## 1.安装vscode（前端开发工具）
 https://www.cnblogs.com/csji/p/13558221.html
