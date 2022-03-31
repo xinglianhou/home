@@ -1,0 +1,54 @@
+{
+    "code": 200,
+    "title":"厦门银保监局统一登陆门户",
+    "data": [
+        {
+            "name": "现场",
+            "desc": "现场检查数据",
+            "imgUrl": "1.png",
+            "jumpUrl": "http://www.baidu.com"
+        },
+        {
+            "name": "非现场",
+            "desc": "非现场检查，通过系统给现场检查,通过系统给现场统给现场检查,，通过系统给现场检查",
+            "imgUrl": "2.png",
+            "jumpUrl": "http://www.baidu.com"
+        },
+        {
+            "name": "行政许可",
+            "desc": "行政许可对应的描述",
+            "imgUrl": "3.png",
+            "jumpUrl": "http://www.baidu.com"
+        },
+        {
+            "name": "消费保护",
+            "desc": "消费保护对应的描述",
+            "imgUrl": "4.png",
+            "jumpUrl": "http://www.baidu.com"
+        },
+        {
+            "name": "办公系统",
+            "desc": "办公系统对应的描述",
+            "imgUrl": "1.png",
+            "jumpUrl": "http://www.baidu.com"
+        },
+        {
+            "name": "工作门户",
+            "desc": "工作门户对应的描述,通过系统给现场统给现场检查",
+            "imgUrl": "2.png",
+            "jumpUrl": "http://www.baidu.com"
+        },
+        {
+            "name": "工作门户3",
+            "desc": "工作门户对应的描述",
+            "imgUrl": "3.png",
+            "jumpUrl": "http://www.baidu.com"
+        },
+        {
+            "name": "工作门户4",
+            "desc": "工作门户4",
+            "imgUrl": "4.png",
+            "jumpUrl": "http://www.baidu.com"
+        }
+    ]
+}
